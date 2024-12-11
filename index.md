@@ -5,7 +5,7 @@ This is my home page! My name is Giselle Zuno and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/gisellezuno]
+My [Github](http://github.com/gisellezuno/)
 
 ## CPSC 120
 
